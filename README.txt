@@ -12,3 +12,5 @@ This dataset consists of industrial operation time-series data under **non-stati
 **Note**: For questions related to data details, please contact the first author of the paper: {ZhangZhipeng} | **Email**: {1053875908@qq.com}.
 
 For academic/engineering application collaborations, please contact the corresponding author: {Xiaochen Hao} | **Email**: {haoxiaochen@ysu.edu.cn}
+
+The article has not yet been published. The readme will be updated once it is published. Please add the correct citation.
